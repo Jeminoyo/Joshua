@@ -1,0 +1,70 @@
+body{background-color: aliceblue;
+
+span{
+  font-family: Roboto;
+color: black;
+padding-left:14px;
+
+}
+}
+
+.port{
+font-weight:1000px;
+font-family: Roboto;
+font-size: 25px;
+padding-left: 450px;
+color: rgba(31, 34, 97, 1);
+
+;
+}
+.paragraph{
+font-family: Roboto;
+padding-left:350px;
+color: grey;
+;
+}
+
+.converter{
+background-color: white;
+border-radius: 10px;
+height: 320px;
+width: 280px;
+margin-left: 400px;
+}
+h6{
+  padding-top: 25px;
+  padding-left: 25px;
+    font-family: Roboto;
+    color: gray;}
+    
+  
+
+.select{
+ input{
+  font-family: Roboto;
+border: none;
+background-color:whitesmoke;
+border-radius: 5px;
+ } 
+select{
+border: none;
+    font-family: Roboto;
+    font-weight: 700;
+    color: darkblue;
+  }
+}
+.elect{
+  input{
+   font-family: Roboto;
+ border: none;
+ background-color:whitesmoke;
+ border-radius: 5px;
+  } 
+}
+ select{
+ border: none;
+     font-family: Roboto;
+     font-weight: 700;
+     color: darkblue;
+ }
+ 

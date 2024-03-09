@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>E-commerce</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Tangerine"
+    />
+  </head>
+  <body style="margin-right: 0">
+    <!-- navbar  -->
+    <ul>
+      <li class="logo">E-commerce</li>
+      <li>Home</li>
+      <li>Electronics</li>
+      <li>Gadgets</li>
+      <li>Fashion</li>
+      <li><i class="fas fa-shopping-cart"> </i></li>
+      <li id="sign">Sign In</li>
+    </ul>
+
+    <!-- Banner  -->
+    <div class="banner">
+      <table>
+        <tr>
+          <td>E-commerce At Your Finger Tip !!!</td>
+          <td>
+            <img src="dolapo/download-removebg-preview (22).png" alt="" />
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- Electronics  -->
+    <h4>Electronics</h4>
+    <hr
+      border="4"
+      style="color: black; font-weight: bold; background-color: black"
+    />
+    <table class="Electronics">
+    
+      <tr>
+        <td>
+          <img
+            src="/dolapo/WhatsApp Image 2024-02-10 at 14.47.30_b05466dc.jpg"
+            alt=""
+            width="200"
+          />
+          <br />
+          <strong>Fridge</strong>
+          <p>Price :<s>$300</s> $300</p>
+          <button>Buy Now</button>
+        </td>
+        <td class="row">
+          <img
+            src="/dolapo/WhatsApp Image 2024-02-10 at 14.47.30_9e53c4bf.jpg"
+            alt=""
+            width="200"
+            height="133"
+          /> <br>
+          <strong>Washing Machine</strong>
+          <p>Price : <s>$500</s>  $450</p>
+          <button>Buy Now</button>
+        </td>
+        <td>
+          <img src="/dolapo/WhatsApp Image 2024-02-10 at 14.47.30_22d99a74.jpg" alt="" height="133" width="200"/> <br>
+          <strong>Fridge</strong>
+          <p>Price: $2000 <s>$3000</s></p>
+          <button>Buy Now</button>
+        </td>
+        <td>
+          <img src="/dolapo/WhatsApp Image 2024-02-10 at 14.46.40_b4209852.jpg" alt="" width="200" height="133"> <br>
+          <strong>Laptop</strong>
+          <p>Price : <s>$700</s> $650</p>
+          <button>Buy Now</button>
+
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
